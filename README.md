@@ -1,4 +1,4 @@
-# Three.js 3D Scene with Rotating Box, Sphere, and Grid
+# Three.js 3D Scene with Rotating Box, Two Rotating Spheres, and Grid
 
 This project is a basic 3D scene built with [Three.js](https://threejs.org/), featuring a rotating box, a plane, a sphere, a grid helper, and interactive camera controls using `OrbitControls`. The scene includes visual aids such as an axes helper and grid to enhance orientation within the 3D environment.
 
@@ -63,7 +63,6 @@ Here’s what the 3D scene looks like:
 ![Screenshot (196)](https://github.com/user-attachments/assets/7f157547-1924-46c4-b2b5-7ccd41387810)
 ![Screenshot (201)](https://github.com/user-attachments/assets/e3736ec5-145d-4b75)
 ![Screenshot (202)](https://github.com/user-attachments/assets/e3f01435-d131-4af2-bd53-720ade1544b7)
--9e7d-20fc32bb8b4c)
 ![Screenshot (203)](https://github.com/user-attachments/assets/80fbfc50-6b9b-4d62-b7cc-8c56934adb70)
 ![Screenshot (206)](https://github.com/user-attachments/assets/0354c8b7-f721-4465-80f0-48802be810ac)
 ![Screenshot (208)](https://github.com/user-attachments/assets/f10791e3-6b6d-4145-94d9-d8508a2c597c)
@@ -82,11 +81,7 @@ Here’s what the 3D scene looks like:
 ![Screenshot (236)](https://github.com/user-attachments/assets/bfca219e-ad21-45de-aedc-bfab8654f43b)
 ![Screenshot (238)](https://github.com/user-attachments/assets/f0566950-1b7b-4451-a605-8a2ca70ff073)
 
-
 *Close-up view of the box, plane, and sphere.*
-
-
-
 
 ## Future Enhancements
 
