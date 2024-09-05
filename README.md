@@ -12,7 +12,9 @@ This project is a basic 3D scene built with [Three.js](https://threejs.org/), fe
 
 ## Demo
 Here’s what the 3D scene looks like:
-[check this out](https://github.com/user-attachments/assets/e5fcf061-22c1-4218-8695-a472e0832224)
+[(1)](https://github.com/user-attachments/assets/e5fcf061-22c1-4218-8695-a472e0832224)
+[(2)](https://github.com/user-attachments/assets/8857d227-02af-41c9-9594-e422b8c22ae7)
+[Final Demo(3)](https://github.com/user-attachments/assets/159ad4dd-05ff-43eb-a07c-8a6a9df2d9f1)
 *3D scene with the rotating box, sphere, and grid.*
 
 ## Installation and Usage
@@ -80,7 +82,13 @@ Here’s what the 3D scene looks like:
 ![Screenshot (235)](https://github.com/user-attachments/assets/03859fe2-730a-4c0f-9d28-63db8921c330)
 ![Screenshot (236)](https://github.com/user-attachments/assets/bfca219e-ad21-45de-aedc-bfab8654f43b)
 ![Screenshot (238)](https://github.com/user-attachments/assets/f0566950-1b7b-4451-a605-8a2ca70ff073)
-
+![Screenshot (239)](https://github.com/user-attachments/assets/eeda4ccd-8e40-44fa-9a23-14c92c62cc7c)
+![Screenshot (251)](https://github.com/user-attachments/assets/a89c5214-59e1-4bae-ab4c-1b7a73c9e44e)
+![Screenshot (255)](https://github.com/user-attachments/assets/c16d9f98-bada-4cfb-a669-453f1f27bb8d)
+![Screenshot (249)](https://github.com/user-attachments/assets/8b1fd4ad-cf05-49cb-85b3-4afd4bce4afe)
+![Screenshot (257)](https://github.com/user-attachments/assets/413e9b90-a91b-4c41-b7d9-424fa1d59416)
+![Screenshot (256)](https://github.com/user-attachments/assets/e5310475-f483-465a-9193-2127bed01ba0)
+![Screenshot (262)](https://github.com/user-attachments/assets/c5255c48-29e1-479a-8cb8-aa1337baf1c0)
 *Close-up view of the box, plane, and sphere.*
 
 ## Future Enhancements
