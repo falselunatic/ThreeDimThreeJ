@@ -1,4 +1,5 @@
 # Three.js 3D Scene with Rotating Box, Two Rotating Spheres, and Grid
+(I'm just learning & exploring)
 
 This project is a basic 3D scene built with [Three.js](https://threejs.org/), featuring a rotating box, a plane, a sphere, a grid helper, and interactive camera controls using `OrbitControls`. The scene includes visual aids such as an axes helper and grid to enhance orientation within the 3D environment.
 
