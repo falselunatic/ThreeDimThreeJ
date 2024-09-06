@@ -64,7 +64,6 @@ Here’s what the 3D scene looks like:
 ![Screenshot (194)](https://github.com/user-attachments/assets/78eedf8b-7962-4647-b18e-9ff32fae9cca)
 ![Screenshot (195)](https://github.com/user-attachments/assets/24623793-2a47-4ec4-9ff8-bbada848bc57)
 ![Screenshot (196)](https://github.com/user-attachments/assets/7f157547-1924-46c4-b2b5-7ccd41387810)
-![Screenshot (201)](https://github.com/user-attachments/assets/e3736ec5-145d-4b75)
 ![Screenshot (202)](https://github.com/user-attachments/assets/e3f01435-d131-4af2-bd53-720ade1544b7)
 ![Screenshot (203)](https://github.com/user-attachments/assets/80fbfc50-6b9b-4d62-b7cc-8c56934adb70)
 ![Screenshot (206)](https://github.com/user-attachments/assets/0354c8b7-f721-4465-80f0-48802be810ac)
